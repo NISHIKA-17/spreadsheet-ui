@@ -4,7 +4,7 @@ A pixel-perfect React spreadsheet prototype built to match the provided Figma de
 
 ## 🚀 Live Demo
 
-Access the live application at: [Your deployed URL here]
+Access the live application at: `https://spreadsheet-ui-three.vercel.app/`
 
 ## 📋 Project Overview
 
